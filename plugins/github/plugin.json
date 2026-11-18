@@ -1,0 +1,12 @@
+{
+  "name": "github",
+  "displayName": "GitHub",
+  "version": "1.0.0",
+  "description": "Create and manage GitHub repositories, commits, branches, pull requests, issues, and releases directly from Antigravity.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Create a new GitHub repository for my project and push the initial commit",
+    "Check my GitHub authentication status and list my recent repositories",
+    "Create a new branch, commit my changes, and open a pull request on GitHub"
+  ]
+}
